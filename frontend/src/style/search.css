@@ -1,0 +1,58 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+}
+
+form {
+    display: flex;
+    border-radius: 10px;
+    width: 300px;
+    overflow: hidden;
+    border: 1px solid var(--color-aqua);
+    color: var(--color-aqua);
+    height: 2.5rem;
+    transition: all 0.3s ease;
+
+}
+
+input[type="text"] {
+    flex-grow: 1;
+    padding: 0px 15px;
+    border: none;
+
+    font-size: 14px;
+    color: var(--color-aqua);
+    outline: none;
+    transition: background 0.3s ease;
+}
+
+input::placeholder {
+    color: var(--color-aqua);
+}
+
+
+
+button[type="submit"] {
+    padding: 0 30px;
+    border: none;
+background-color: var(--color-sky);
+    color: var(--color-white);
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+margin: 5px;
+border-radius: 5px;
+
+}
+
+button:hover[type="submit"] {
+    background-color: var(--color-aqua);
+    color: var(--color-white);
+}
+
+input {
+    width: 0rem;
+}

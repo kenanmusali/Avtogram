@@ -1,0 +1,30 @@
+@import url('./font.css');
+@import url('./header.css');
+@import url('./search.css');
+@import url('./button.css');
+@import url('./comment.css');
+@import url('./layout.css');
+
+
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-light-aqua:#F4F9FE;
+    --color-sky:#8CCBFF;
+    --color-aqua:#0078D9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Instrument Sans", sans-serif;
+    text-decoration: none;
+
+}
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+    background-color: var(--color-light-aqua) ;
+}

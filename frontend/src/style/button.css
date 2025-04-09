@@ -1,0 +1,43 @@
+.upload-button, .tabBar {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+    transition: all 0.3s ease;
+    height: 2.5rem;
+    padding-inline: 2rem;
+}
+
+.upload-button:hover, .tabBar:hover {
+background-color: var(--color-aqua);
+    color: var(--color-white);
+}
+
+.upload-button:active {
+    transform: translateY(0);
+}
+
+.upload-button:before {
+    content: 'Upload File';
+    display: flex;
+    align-items: center;
+}
+
+.upload-button:hover:before {
+    content: 'Choose File';
+}
+
+
+.file-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+

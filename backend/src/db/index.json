@@ -1,0 +1,102 @@
+{
+    "plateNumberList": [
+        {
+            "id": "50375de0-0b2b-4431-8007-68291ee92dcf",
+            "plateNumber": "77GX084"
+        }
+    ],
+    "fileList": [
+        {
+            "id": "6ba27fdd-a929-43e3-b18e-f8330cee4b9a",
+            "filePath": "/uploads/amir-elshahawi-XDIIUbv4a3Y-unsplash-275070.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        },
+        {
+            "id": "6fb68971-8949-47da-85e7-39d2070a2971",
+            "filePath": "/uploads/yehor-tulinov-98tcp2P8dOg-unsplash-80353.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        },
+        {
+            "id": "f50b434d-2f23-4ced-a38e-61f801440a59",
+            "filePath": "/uploads/valeriy-isaev-ReC9gr7p9Tg-unsplash-550265.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        },
+        {
+            "id": "be197a2f-f797-43fa-bf09-88df24f61eaf",
+            "filePath": "/uploads/martin-katler--iNRphxCMJ4-unsplash-882243.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        },
+        {
+            "id": "cb6e08b6-c103-4e27-9237-b77219dbd865",
+            "filePath": "/uploads/min-yong-um-J75lLFE5Vi8-unsplash-165245.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        },
+        {
+            "id": "ee3473ea-617d-4699-bf57-605aff9d27bb",
+            "filePath": "/uploads/joseph-blanc-YbbsJnSKPVU-unsplash-164576.jpg",
+            "type": "image",
+            "plateNumber": "77GX084"
+        }
+    ],
+    "commentList": [
+        {
+            "id": "ded8ba5d-58f9-4a60-bb4e-fa7b9527219d",
+            "plateNumber": "LMN455",
+            "comment": "Vaoo ne qeseng mashindir!",
+            "createdAt": "2025-04-07T12:56:56.698Z"
+        },
+        {
+            "id": "b057abdc-a76f-4fcd-93d8-bf1fc37b847a",
+            "plateNumber": "77GX084",
+            "comment": "Vaoo ne qeseng Audidir!",
+            "createdAt": "2025-04-07T12:56:56.698Z"
+        },
+        {
+            "id": "ab1041b3-49cb-4ed8-b9e2-7d7bea46ccf1",
+            "plateNumber": "LMN456",
+            "comment": "Bu audi RS7 yek maşındır",
+            "createdAt": "2025-04-07T12:56:56.698Z"
+        },
+        {
+            "id": "d3315d3e-3686-45d9-baa3-f5c1bc683ae5",
+            "plateNumber": "77GX084",
+            "comment": "Bu yek maşındır",
+            "createdAt": "2024-12-12T12:56:56.698Z"
+        },
+        {
+            "id": "161607f7-944d-40cb-9b0b-07e1092382af",
+            "plateNumber": "77GX084",
+            "comment": "test",
+            "createdAt": "2025-04-07T13:15:55.136Z"
+        },
+        {
+            "id": "32681a74-a98d-499e-bf43-2d34319aba0c",
+            "plateNumber": "77GX084",
+            "comment": "Carrrrrrrr\n",
+            "createdAt": "2025-04-07T13:16:16.534Z"
+        },
+        {
+            "id": "cb51d454-bdaf-44c2-9401-02b7c3eb40a2",
+            "plateNumber": "77AA077",
+            "comment": "Kenan Sağlığına qismət!",
+            "createdAt": "2025-04-07T13:17:01.951Z"
+        },
+        {
+            "id": "b57126c1-c746-4a1a-82a4-e8290c24c245",
+            "plateNumber": "77GX084",
+            "comment": "fdvdfv",
+            "createdAt": "2025-04-09T10:08:21.146Z"
+        },
+        {
+            "id": "d6db6a45-3917-44f4-8b0e-6cd45f327b1b",
+            "plateNumber": "77GX084",
+            "comment": "blue",
+            "createdAt": "2025-04-09T10:24:27.959Z"
+        }
+    ]
+}
